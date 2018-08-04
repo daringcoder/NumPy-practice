@@ -1,2 +1,2 @@
 # NumPy practice
-My NumPy practice codes.
+My **NumPy** practice codes.
